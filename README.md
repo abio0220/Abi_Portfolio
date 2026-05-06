@@ -1,36 +1,70 @@
-# Abi_Portfolio
-Abinaya V — Personal Portfolio
-A personal portfolio website built with vanilla HTML, CSS, and JavaScript. Showcasing my skills, projects, and experience as a Python Developer and Cloud Computing enthusiast.
+# 🌐 Abi_Portfolio
 
-✨ Features
+### Abinaya V — Personal Portfolio
 
-Glassmorphism UI — dark-themed design with backdrop blur and glass card components
-Scroll reveal animations — elements animate in using the IntersectionObserver API
-Responsive layout — mobile and desktop friendly with CSS media queries
-Smooth scrolling — native smooth scroll with a JS fallback for older browsers
-Dynamic navbar — becomes frosted-glass on scroll
+A modern personal portfolio website built using **vanilla HTML, CSS, and JavaScript**. This project highlights my skills, projects, and experience as a **Python Developer** and **Cloud Computing enthusiast**.
 
+---
 
-🛠️ Built With
-TechnologyPurposeHTML5Semantic page structure
-CSS3 Styling, animations, glassmorphism
-JavaScript (Vanilla)Scroll effects, IntersectionObserver
-Google FontsInter & Outfit typefaces
-Font Awesome 6Icons
+## ✨ Features
 
-📁 Project Structure
+* 🎨 **Glassmorphism UI**
+  Dark-themed interface with backdrop blur and glass-style cards
+
+* 🎬 **Scroll Reveal Animations**
+  Smooth animations powered by the `IntersectionObserver` API
+
+* 📱 **Responsive Design**
+  Optimized for both mobile and desktop using CSS media queries
+
+* 🔄 **Smooth Scrolling**
+  Native smooth scroll with JavaScript fallback support
+
+* 🧊 **Dynamic Navbar**
+  Navbar transitions into a frosted-glass effect on scroll
+
+---
+
+## 🛠️ Built With
+
+| Technology     | Purpose                            |
+| -------------- | ---------------------------------- |
+| HTML5          | Semantic page structure            |
+| CSS3           | Styling, animations, glassmorphism |
+| JavaScript     | Scroll effects & interactivity     |
+| Google Fonts   | Typography (Inter & Outfit)        |
+| Font Awesome 6 | Icons                              |
+
+---
+
+## 📁 Project Structure
+
+```
 portfolio/
 ├── index.html      # Main HTML file
-├── style.css       # All styles and CSS variables
-├── script.js       # Scroll animations and interactions
+├── style.css       # Styling and CSS variables
+├── script.js       # Animations and interactions
 └── README.md       # Project documentation
+```
+
+---
 
 
-📬 Contact
-Abinaya V
+## 📬 Contact
 
-📧 abinavisu@gmail.com
-📞 +91 84388 22046
-💼 LinkedIn (update with your profile URL)
-🐙 GitHub (update with your profile URL)
+**Abinaya V**
 
+* 📧 Email: [abinavisu@gmail.com](mailto:abinavisu@gmail.com)
+* 📞 Phone: +91 84388 22046
+* 💼 LinkedIn: *(Add your profile link here)*
+* 🐙 GitHub: *(Add your profile link here)*
+
+---
+
+## ⭐ Acknowledgements
+
+* Inspiration from modern UI/UX trends
+* Icons by Font Awesome
+* Fonts by Google Fonts
+
+---
